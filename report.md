@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-## write a report on the performance of the deep learning model you created for Alphabet Soup.
+### write a report on the performance of the deep learning model you created for Alphabet Soup.
 
 ## The report should contain the following:
 
